@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img alt="" src=".github/logo-plane.svg" width="10%">
+  <img alt="" src=".github/preview.jpg" width="10%">
 </p>
 
 <br>
