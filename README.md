@@ -17,7 +17,7 @@
   
   <img src="https://img.shields.io/github/forks/GabriellRossi/Lila-Models?label=forks&message=MIT&color=FFF&labelColor=E0FF65" alt="Forks">
 
-  <img src="https://img.shields.io/github/stars/GabriellRossi/Lila-Models?label=stars&message=MIT&color=FFFE0FF65&labelColor=E0FF65 " alt="Stars">
+  <img src="https://img.shields.io/github/stars/GabriellRossi/Lila-Models?label=stars&message=MIT&color=FFF&labelColor=E0FF65 " alt="Stars">
 </p>
 
 <p align="center">
