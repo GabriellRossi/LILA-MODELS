@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚧 Projeto:
 
-Live Preview: 
+Live Preview: https://lila-models.vercel.app/
 
 ## 🎨 Inspiração:
 
